@@ -12,7 +12,7 @@ title                    : "Mwaura′s Homepage"
 title_separator          : "-"
 name                     : &name "Mwaura"
 description              : &description " Electrical Power Engineering Senior at GCU"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://painfulpastime.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "painfulpastime/mwaura.github.io"
 
