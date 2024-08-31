@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Mwaura′s Academic site"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
+description              : &description " Electrical Power Engineering Senior at GCU"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "mista_impasta.png"
+  name             : "Mwaura Simon"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Hi, I'm Simon! I am an Electrical Power Engineering student at the Glasgow Caledonian University with an interest in AI applications in Energy. I am looking to venture into the field of Power Analytics, fusing the two fields together. I am a digital artist during my free time, and I run my own Design Brand INCOGNITO™. Let′s connect, im sure we′ll find more in common. My email is simon.mwaura957@gmail.com."
+  location         : "Mauritius"
+  employer         : "Glasgow Caledonian University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "simon.mwaura957@gmail" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
